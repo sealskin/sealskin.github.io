@@ -1,6 +1,7 @@
 .topnav {
   overflow: hidden;
-  background-color: #E2E2E2;
+  /*background-color: #E2E2E2;*/
+  border-bottom: solid 5px #E2E2E2;
 }
 
 .topnav ul {
