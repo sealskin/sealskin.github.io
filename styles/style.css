@@ -7,18 +7,15 @@ body {
 .topnav div {
   overflow: hidden;
   background-color: #FFFFFF;
-  border-width: 2px;
-  border-bottom-width: 2px;
-  border-bottom-style: solid;
 }
 
 .topnav ul {
+  border-bottom: 3px solid Black;
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
 .topnav il {
-  display: inline;
   float: left;
 }
