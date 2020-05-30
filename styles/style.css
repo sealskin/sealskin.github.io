@@ -1,7 +1,8 @@
 .topnav div {
   overflow: hidden;
   background-color: #FFFFFF;
-  border-bottom: solid 3px #E2E2E2;
+  border-width: 2px;
+  border-bottom: 2px solid white;
 }
 
 .topnav ul {
