@@ -7,6 +7,7 @@ body {
 .topnav div {
   overflow: hidden;
   background-color: #FFFFFF;
+  height: 12vh; /* Set navigation bar height to 1/8 of window height*/
 }
 
 .topnav ul {
