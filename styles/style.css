@@ -20,4 +20,5 @@ body {
 
 .topnav il {
   display: inline;
+  float: left;
 }
