@@ -1,13 +1,13 @@
 body {
   margin: 0;
-  text-align: center;
+  /*text-align: center;*/
 }
 
 
 .topnav div {
   overflow: hidden;
   background-color: #FFFFFF;
-  height: 12vh; /* Set navigation bar height to 1/8 of window height*/
+  height: 12%; /* Set navigation bar height to 1/8 of window height*/
 }
 
 .topnav ul {
@@ -15,8 +15,10 @@ body {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  height: 100%;
 }
 
-.topnav ul il {
+.topnav il {
   float: left;
+  height: 100%;
 }
