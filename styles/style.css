@@ -22,4 +22,6 @@ body {
 .topnav il {
   float: left;
   height: 100%;
+  
+  padding: 14px 16px;
 }
